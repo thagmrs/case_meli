@@ -1,4 +1,4 @@
-<h2> 🚚  **Codex - Mercado Livre**  🔈</h2>
+<h2> 🚚  Codex - Mercado Livre  🔈</h2>
 
  O código está sendo disponibilizado de duas formas:
  * **script.py:** o código pode ser executado de uma única vez e irá trazer os resultados
