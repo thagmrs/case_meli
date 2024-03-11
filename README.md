@@ -5,5 +5,6 @@
  * **notebook.ipynb:** aqui o código foi executado em partes e em cada parte é descrito o porque de cada função/parâmetro ou escolha realizada para a análise.
 
 Todos o insumos necessário para a execução do código estão disponibilizados neste repositório.
-varsão do python utilizada: 3.8.6 
+
+Versão do python utilizada: 3.8.6 
 
